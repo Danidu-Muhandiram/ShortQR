@@ -1,3 +1,0 @@
-ShortQR
-
-ShortQR is a project designed to simplify the process of generating and managing QR codes. This repository contains the source code and documentation for the project.
